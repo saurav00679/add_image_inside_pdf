@@ -1,5 +1,7 @@
 # AddImageInsidePdf - Replace any text with image in PDF files
 
+[![Gem Version](https://badge.fury.io/rb/add_image_inside_pdf.svg)](https://badge.fury.io/rb/add_image_inside_pdf)
+
 This gem is very efficient for the case when we need to replace any text with image within the pdfs. This gem also allows to replace multiple texts with any image in single call.
 
 ## Installation
